@@ -1,0 +1,6 @@
+/Users/ericjung/Desktop/workspace/CSharpPractice/CSharpPractice/bin/Debug/CSharpPractice.exe
+/Users/ericjung/Desktop/workspace/CSharpPractice/CSharpPractice/bin/Debug/CSharpPractice.pdb
+/Users/ericjung/Desktop/workspace/CSharpPractice/CSharpPractice/obj/Debug/CSharpPractice.csprojAssemblyReference.cache
+/Users/ericjung/Desktop/workspace/CSharpPractice/CSharpPractice/obj/Debug/CSharpPractice.csproj.CoreCompileInputs.cache
+/Users/ericjung/Desktop/workspace/CSharpPractice/CSharpPractice/obj/Debug/CSharpPractice.exe
+/Users/ericjung/Desktop/workspace/CSharpPractice/CSharpPractice/obj/Debug/CSharpPractice.pdb
